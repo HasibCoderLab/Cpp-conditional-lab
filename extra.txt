@@ -1,20 +1,12 @@
 // ================================================
 //               Language: C++ / Cpp
 //               Topic   : [Condition]
-//               Problem : 👉👉 [1] absoluteValue
+//               Problem : 👉👉 [1]
 //               Want    : Take integer input and print 
 //                        the absolute of that integer
 // ================================================
 #include <iostream>
 using namespace std;
 int main(){
-    int n ;
-    cout<<"Enter Number ";
-    cin>>n;
-    if(n >=0){
-        cout<<"Absolute value " << n <<endl;  
-      }else{
-        cout<<"This is not absolute value"<< -n <<endl;
-    }
     return 0 ;
 }
